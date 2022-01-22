@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.590,C:\Курсач (Игры)\Программа\MainUnit.cpp=C:\Users\solut\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,C:\Курсач (Игры)\Программа\PingPongUnit.h=C:\Курсач (Игры)\Программа\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,C:\Курсач (Игры)\Программа\GameTime.cbproj=C:\Users\solut\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,C:\Курсач (Игры)\Программа\Unit1.h=C:\Курсач (Игры)\Программа\WestUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.490,=C:\Users\solut\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,=C:\Курсач (Игры)\Программа\AccountUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,C:\Курсач (Игры)\Программа\Unit1.h=C:\Курсач (Игры)\Программа\TTTUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,C:\Курсач (Игры)\Программа\GameCollection.h=C:\Users\solut\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,C:\Курсач (Игры)\Программа\Point15Unit.h=C:\Курсач (Игры)\Программа\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Курсач (Игры)\Программа\Point21Unit.dfm=C:\Курсач (Игры)\Программа\Point21.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,C:\Курсач (Игры)\Программа\Point15Unit.dfm=C:\Курсач (Игры)\Программа\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,C:\Курсач (Игры)\Программа\MainUnit.dfm=C:\Users\solut\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,C:\Курсач (Игры)\Программа\Unit1.dfm=C:\Курсач (Игры)\Программа\TTTUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,C:\Курсач (Игры)\Программа\Unit1.dfm=C:\Курсач (Игры)\Программа\WestUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Курсач (Игры)\Программа\Point21Unit.cpp=C:\Курсач (Игры)\Программа\Point21.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.400,C:\Курсач (Игры)\Программа\Point15Unit.cpp=C:\Курсач (Игры)\Программа\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,=C:\Users\solut\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.821,=C:\Курсач (Игры)\Программа\PingPongUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,C:\Курсач (Игры)\Программа\PingPongUnit.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.998,C:\Курсач (Игры)\Программа\Point21Unit.h=C:\Курсач (Игры)\Программа\Point21.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,C:\Курсач (Игры)\Программа\MainUnit.h=C:\Users\solut\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,C:\Курсач (Игры)\Программа\PingPongUnit.dfm=C:\Курсач (Игры)\Программа\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,=C:\Курсач (Игры)\Программа\Point21.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,=C:\Курсач (Игры)\Программа\PingPongUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,=C:\Курсач (Игры)\Программа\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=C:\Курсач (Игры)\Программа\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,=C:\Курсач (Игры)\Программа\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.021,=C:\Курсач (Игры)\Программа\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,C:\Курсач (Игры)\Программа\PingPongUnit.cpp=C:\Курсач (Игры)\Программа\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,C:\Курсач (Игры)\Программа\Unit1.cpp=C:\Курсач (Игры)\Программа\TTTUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,C:\Курсач (Игры)\Программа\Unit1.cpp=C:\Курсач (Игры)\Программа\WestUnit.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AccountUnit.cpp"/>
+    <File Path="AccountUnit.cpp"/>
+    <File Path="AccountUnit.dfm"/>
+    <File Path="AccountUnit.h"/>
+    <File Path="GameCollection.h"/>
+    <File Path="GameTime.cpp"/>
+    <File Path="MainUnit.cpp"/>
+    <File Path="MainUnit.cpp"/>
+    <File Path="MainUnit.dfm"/>
+    <File Path="MainUnit.h"/>
+    <File Path="PingPongUnit.cpp"/>
+    <File Path="PingPongUnit.cpp"/>
+    <File Path="PingPongUnit.dfm"/>
+    <File Path="PingPongUnit.h"/>
+    <File Path="Point15Unit.cpp"/>
+    <File Path="Point15Unit.cpp"/>
+    <File Path="Point15Unit.dfm"/>
+    <File Path="Point15Unit.h"/>
+    <File Path="Point21Unit.cpp"/>
+    <File Path="Point21Unit.cpp"/>
+    <File Path="Point21Unit.dfm"/>
+    <File Path="Point21Unit.h"/>
+    <File Path="WestUnit.cpp"/>
+    <File Path="WestUnit.cpp"/>
+    <File Path="WestUnit.dfm"/>
+    <File Path="WestUnit.h"/>
+    <File Path="TTTUnit.cpp"/>
+    <File Path="TTTUnit.cpp"/>
+    <File Path="TTTUnit.dfm"/>
+    <File Path="TTTUnit.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
